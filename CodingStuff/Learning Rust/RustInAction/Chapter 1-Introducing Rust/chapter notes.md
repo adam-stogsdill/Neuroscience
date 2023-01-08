@@ -1,3 +1,5 @@
+Tags: #Rust #Programming
+
 Cargo run flags!
 
 --release
