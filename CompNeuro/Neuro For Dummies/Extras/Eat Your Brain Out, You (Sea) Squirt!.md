@@ -1,0 +1,3 @@
+Sea squirts are filter feeders (they filter nutrients out of ocean water) that live on the ocean floor. What's interesting about these organisms, despite the many shapes and colors they come in, is that they have a mobile, larval form with a cerebral ganglion that controls swimming, but the adult form is *sessile* (anchored, like a plant).
+
+During metamorphosis to its adult form, the sea squirt digests this central ganglion and thus "eats its own brain", because, as a plant form, it no longer needs it.
