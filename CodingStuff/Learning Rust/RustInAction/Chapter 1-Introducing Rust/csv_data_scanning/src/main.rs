@@ -24,8 +24,8 @@ fn main() {                 // Executable functios require a main function
                    record, fields);            // eprintln! prints to standard error (stderr)
       }
   
-      let name = fields[0];           // 
-      if let Ok(length) = fields[1].parse::<f32>() { // Attempts to parse field as a floating-point number
+      let name = fields[0];           
+      if let Ok(length) = fields[1].parse::<f32>() { // Attempts to parse field as a floating-point number. Attempt to parse first field as float32 and if successful, assign the number ot the length variable.
           println!("{}, {}cm", name, length);        // println! prints to standard out (stdout)
       }
     }
