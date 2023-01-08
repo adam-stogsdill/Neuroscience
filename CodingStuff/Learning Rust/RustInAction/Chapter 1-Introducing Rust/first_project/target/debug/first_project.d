@@ -1,0 +1,1 @@
+C:\Users\Windows\Documents\MachineLearningNotes\Neuroscience\CodingStuff\Learning\ Rust\RustInAction\Chapter\ 1-Introducing\ Rust\first_project\target\debug\first_project.exe: C:\Users\Windows\Documents\MachineLearningNotes\Neuroscience\CodingStuff\Learning\ Rust\RustInAction\Chapter\ 1-Introducing\ Rust\first_project\src\main.rs
