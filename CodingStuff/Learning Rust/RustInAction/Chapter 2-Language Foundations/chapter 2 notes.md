@@ -87,3 +87,84 @@ Rust lacks:
 * fixed-point decimal numbers for working with currencies.
 
 To fix this we use the "num crate" which is a package that introduces the concept to the values.
+
+The project in "num_testing" has the code we will be talking about.
+
+* The "use" keyword pulls crates into local scope, and the namespace operator restricts what's imported.
+* _Rust does not have constructors; instead, every type has a literal form_.
+
+>[!note] Shortcut for adding a third-party dependency to a project
+> Use the command "cargo install cargo-edit". This will allow you to add packages in the console. To add a package use "cargo add {package}"
+
+## Flow Control
+
+### For: The central pillar of iteration
+
+The basic form of the for loop when iterating through a sequence is:
+```rust
+for item in container {
+	// ...
+}
+```
+
+This basic form makes each successive element in **container** available as **item**. This way does have some pitfalls.
+Once the block ends, accessing the container another time becomes invalid. Even though the container variables remains within local scope, its _lifetime_ has ended.
+
+If you add an '&'-prefix to "container", it will keep the _container_.
+
+If you need to change anything about the _item_ during the loop, you can use a _mutable reference by including the mut keyboard._
+```rust
+for item in &mut collection {
+	// ...
+}
+```
+
+### Anonymous Loops
+When a local variable is not used within a block, by convention, you'll use an underscore. For example:
+```rust
+for _ in 0..10 {
+	// ...
+}
+```
+
+### Avoid managing an index variable
+Using a manual index variable is largely discouraged because of two problems:
+* Performance - Indexing values with the collection[index] syntax incurs runtime costs for _bounds checking_.
+* Safety - Periodically accessing collection over time introduces the possibility that it changed.
+
+## Loop: The basis for Rust's looping constructs
+Rust contains a **Loop** keyword for providing more control than **for** and **while** loops.
+It continues to loop until the **break** keyword is called or the program is terminated.
+Loop is useful for long-running functionality (i.e. servers).
+
+### Break from nested loops
+To break outside a larger loop you can add a _loop label_. Look at the example below to see how to accomplish this.
+```rust
+'outer: for x in 0.. {
+	for y in 0.. {
+		for z in 0.. {
+			if x + y + z > 1000 {
+				break 'outer;
+			}
+		}
+	}
+}
+```
+
+## Match: Type-aware pattern matching
+While it's possible to use if/else blocks in Rust, match provides a safer alternative. **Match** warns you if you haven't considered a relevant alternative. It is also elegant and concise:
+```rust
+match item {
+	0 => {},
+	10 ..=20 => {}, // ..= means an inclusive range
+	40 | 80 => {},
+	_ = > {},       // the underscore acts as the default case.
+}
+```
+
+## Defining Functions
+
+![[function_def_syntax.png]]
+
+## Using References
+A _reference_ is a value that stands in place for another value. For example, imagine that variable _a_ is a large array that is costly to duplicate. In some sense, a reference _r_ is a cheap copy of _a_. But instead of creating a duplicate, the program stores a's address in memory. 
