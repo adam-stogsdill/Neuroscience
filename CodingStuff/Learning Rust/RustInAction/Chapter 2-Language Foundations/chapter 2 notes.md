@@ -167,4 +167,16 @@ match item {
 ![[function_def_syntax.png]]
 
 ## Using References
-A _reference_ is a value that stands in place for another value. For example, imagine that variable _a_ is a large array that is costly to duplicate. In some sense, a reference _r_ is a cheap copy of _a_. But instead of creating a duplicate, the program stores a's address in memory. 
+A _reference_ is a value that stands in place for another value. For example, imagine that variable _a_ is a large array that is costly to duplicate. In some sense, a reference _r_ is a cheap copy of _a_. But instead of creating a duplicate, the program stores a's address in memory. When the data from _a_ is required, _r_ can be _dereferenced_ to make _a_ available. The following code shows how to perform this:
+```rust
+fn main() {
+	let a = 42;
+	let r = &a;                 // get the mem address of a assigned to r
+	let b = a + *r;             // dereference the r variable to access the a value
+
+	println!("a + a = {}", b);
+}
+```
+
+## Final Project, Rendering the Mandelbrot set!
+Look at the Mandelbrot folder!
