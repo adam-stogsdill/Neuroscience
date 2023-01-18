@@ -1,0 +1,8 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-davinci-003",
+  "tokens": 300,
+  "temperature": 5,
+  "promptHistory": []
+}
