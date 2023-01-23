@@ -1,0 +1,3 @@
+Tags: #Neuroscience #PNSBook #Vocabulary 
+
+The cerebrum comprises two cerebral hemispheres, each consisting of a heavily wrinkled outer layer (the cerebral cortex) and three deep-lying structures (components of the basal ganglia, the hippocampus, and amygdaloid nuclei). The basal ganglia, which include the caudate, putamen, and globus pallidus, regulate movement execution and motor- and habit-learning, two forms of memory that are referred to as implicit memory; the hippocampus is critical for storage of memory of people, places, things, and events, a form of memory that is referred to as explicit; and the amygdaloid nuclei coordinate the autonomic and endocrine responses of emotional states, including memory of threats, another form of implicit memory.

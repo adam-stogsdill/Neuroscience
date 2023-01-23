@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3b15aaa55497ed8",
+            "id": "2b03476bd0b804b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Glossary/Diencephalon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "676e7bd9b0f19fbc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "CompNeuro/PNS, 6e/Task Kaban.md"
-              }
-            }
-          },
-          {
-            "id": "2988ee2a0edd1da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/1.03 The First Strong Evidence for Localization of Cognitive Abilities Came Frome Studies of Language Disorders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Glossary/Diencephalon.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/1.03 The First Strong Evidence for Localization of Cognitive Abilities Came Frome Studies of Language Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Glossary/Diencephalon.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/1.03 The First Strong Evidence for Localization of Cognitive Abilities Came Frome Studies of Language Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Glossary/Diencephalon.md"
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/1.03 The First Strong Evidence for Localization of Cognitive Abilities Came Frome Studies of Language Disorders.md"
               }
             }
           },
@@ -189,17 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2599959dfa1d2bef",
+  "active": "2b03476bd0b804b8",
   "lastOpenFiles": [
-    "CompNeuro/PNS, 6e/Glossary/Diencephalon.md",
-    "CompNeuro/PNS, 6e/Task Kaban.md",
+    "CompNeuro/PNS, 6e/Glossary/Broca's Area.md",
+    "CompNeuro/PNS, 6e/images/neuron doctrine.md",
+    "CompNeuro/PNS, 6e/images/Broca_wernicke.png",
+    "Pasted image 20230122191118.png",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/1.03 The First Strong Evidence for Localization of Cognitive Abilities Came Frome Studies of Language Disorders.md",
+    "CompNeuro/PNS, 6e/Glossary/Aphasia.md",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/1.02 The Brain has Distinct Functional Regions.md",
+    "CompNeuro/Neuroanatomical Structures/The Arachnoid Mater.md",
     "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior.md",
-    "CompNeuro/PNS, 6e/Glossary/Midbrain.md",
-    "CompNeuro/PNS, 6e/Glossary/Cerebellum.md",
-    "CompNeuro/PNS, 6e/Glossary/Medulla Oblongata.md",
-    "CompNeuro/PNS, 6e/Glossary/Pons.md",
-    "CompNeuro/PNS, 6e/Glossary/Synapse.md",
-    "CompNeuro/PNS, 6e/Glossary/Neuron Doctrine.md",
-    "CompNeuro/PNS, 6e/Glossary/Neural Circuits.md"
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/1.01 Two Opposing Views Have Been Advanced on the Relationship Between Brain and Behavior.md"
   ]
 }

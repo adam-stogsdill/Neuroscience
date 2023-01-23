@@ -1,1 +1,2 @@
+Tags: #Neuroscience #PNSBook #Vocabulary 
 Lies Rostral to the midbrain and contains two structures. The _thalamus_ processes most of the information reaching the cerebral cortex from the rest of the CNS. The _hypothalamus_ regulates autonomic, endocrine, and visceral functions
