@@ -1,8 +1,11 @@
 {
   "accentColor": "#95c0db",
   "baseFontSize": 25,
-  "cssTheme": "Obsidian Nord",
-  "theme": "obsidian",
+  "cssTheme": "Prism",
+  "theme": "moonstone",
   "translucency": false,
-  "textFontFamily": "Courier New"
+  "textFontFamily": "Courier New",
+  "enabledCssSnippets": [
+    "check_boxes"
+  ]
 }

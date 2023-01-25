@@ -1,4 +1,49 @@
-Tags: #Neuroscience #PNSBook 
+Tags: #Neuroscience #PNSBook #PartIOverallPerspective 
+
+![[brain-mapping.png]]
+
+Above is an image showing the [[CompNeuro/PNS, 6e/Glossary/Corpus Callosum|Corpus Callosum]] and brainstem pathways. The image was constructed using MRI data with the diffusion spectrum imaging technique.
+
+Diffusion spectrum imaging uses the rate and preferred direction of diffusion of water molecules to generate contrast in MR images to reveal axon bundles. The fibers are color coded by direction:
+* <mark style="background: #FF5582A6;">Red</mark> → Left-right
+* <mark style="background: #BBFABBA6;">Green</mark> → Anterior-posterior
+* <mark style="background: #ADCCFFA6;">Blue</mark> → Ascending-Descending
+
+During the second half of the 20th century, the central focus of biology was the gene. <mark style="background: #FFB86CA6;">Now the focus has shifted to neural science</mark>.
+
+How does the brain - an organ weighing only 1.5 kg - conceive of the infinite, discover new knowledge, and produce the remarkable individuality of human thoughts, feelings, and actions?
+
+How are these extraordinary mental capabilities distributed within the organ?
+
+What rules relate the anatomical organization and the cellular physiology of a region to its specific role in mentation?
+
+What do genes contribute to behavior, and how is gene expression in nerve cells regulated by developmental and learning processes?
+
+How does experience alter the way the brain processes subsequent events, and to what degree is that processing unconscious?
+
+Finally, what are the neural bases of neurological and psychiatric disorders?
+
+In this intro section of the book _Principles of Neural Science_, we begin to link the computational logic of neural circuitry to the mind (how the activities of nerve cells within defined neural).
+
+In the first part of this book, we consider the degree to which mental functions can be localized to specific regions of the brain. We also examine the extent to which such functions can be understood in terms of properties of: 
+* individual nerve cells
+* their molecular constituents
+* and their synaptic connections. 
+
+In the later parts of this book, we examine in detail the mechanisms underlying cognitive and affective functions of the brain:
+* perception
+* action
+* motivation
+* emotion
+* learning
+* memory
+
+The human brain is a network of more than 80 billion individual nerve cells interconnected in systems - neural circuits - that construct our perceptions of the external world, fix our attention, guide our decisions, and implement our actions.
+
+One of the chief ideas we shall develop in this book is that the specificity of the synaptic connections established during development and refined during experience underlie behavior. We can also learn to <mark style="background: #BBFABBA6;">understand both the innate and environmental determinants of behavior in which genes encode proteins</mark> that initially govern the development of the neural circuits that can then be modified by experience-dependent changes in gene expression.
+
+Our goal is to provide not simply the facts but the principles of brain organization, function, and computation. The principles of neural science <mark style="background: #FF5582A6;">do not reduce the complexity of human thought to a set of molecules or mathematical axioms.</mark> Rather, they allow us to appreciate a certain beauty - a Darwinian elegance - in the complexity of the brain that accounts for mind and behavior. 
+
 
 ## Introduction
 The last frontier of the biological sciences is to understand the basis of consciousness and the brain processes by which we:

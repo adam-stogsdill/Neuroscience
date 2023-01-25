@@ -1,0 +1,3 @@
+.markdown-preview-view ul > li.task-list-item.is-checked { text-decoration:none; color:var(--text-normal); }
+
+.markdown-preview-view ol > li.task-list-item.is-checked { text-decoration:none; color:var(--text-normal); }
