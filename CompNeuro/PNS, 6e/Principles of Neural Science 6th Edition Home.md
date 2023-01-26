@@ -8,10 +8,10 @@
 - [x] Mental Processes are the Product of Interactions Between Elementary Processing Units in the Brain ✅ 2023-01-24
 
 ### 2 Genes and Behavior
-- [ ] An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior
-- [ ] The Understanding of the Structure and Function of the Genome is Evolving
-	- [ ] Genes Are Arranged on Chromosomes
-- [ ] The Relationship Between Genotype and Phenotype Is Often Complex
+- [x] An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior ✅ 2023-01-24
+- [x] The Understanding of the Structure and Function of the Genome is Evolving ✅ 2023-01-25
+	- [x] Genes Are Arranged on Chromosomes ✅ 2023-01-25
+- [x] The Relationship Between Genotype and Phenotype Is Often Complex ✅ 2023-01-25
 - [ ] Genes are Conserved Through Evolution
 - [ ] Genetic Regulation of Behavior Can Be Studied in Animal Models
 	- [ ] A Transcriptional Oscillator Regulates Circadian Rhythm in Flied, Mice, and Humans

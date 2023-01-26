@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Principles of Neuroscience 6th Edition Home.md",
+                "file": "CompNeuro/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "853bde5f59346677",
+            "id": "cde2f33ea3678fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/0 Prepage.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "087dee74414db8be",
+            "id": "a7bdbbc7a6ad7a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/1 An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior.md",
+                "file": "CompNeuro/PNS, 6e/Glossary/Mutations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/1 An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/1 An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior.md",
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/1 An Understanding of Molecular Genetics and Heritability Is Essential to the Study of Human Behavior.md"
+                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md"
               }
             }
           },
@@ -174,9 +174,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cb119fc2ba2d5876",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,17 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "087dee74414db8be",
+  "active": "cde2f33ea3678fcf",
   "lastOpenFiles": [
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/0 Prepage.md",
-    "CompNeuro/PNS, 6e/Principles of Neuroscience 6th Edition Home.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/5 Highlights.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/4 Mental Processes Are the Product of Interactions Between Elementary Processing Units in the Brain.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/1 Two Opposing Views Have Been Advanced on the Relationship Between Brain and Behavior.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/2 The Brain has Distinct Functional Regions.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/3 The First Strong Evidence for Localization of Cognitive Abilities Came From Studies of Language Disorders.md",
-    "CompNeuro/PNS, 6e/Glossary/Gnosia.md",
-    "obsidian.css.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/0 Prepage.md"
+    "CompNeuro/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md",
+    "CompNeuro/PNS, 6e/Glossary/Mutations.md",
+    "CompNeuro/PNS, 6e/Glossary/Dominant Phenotype.md",
+    "CompNeuro/PNS, 6e/Glossary/Recessive Phenotype.md",
+    "CompNeuro/PNS, 6e/Glossary/Haploinsufficiency.md",
+    "CompNeuro/Videos Study/Neurology by Ninja Nerd/Anatomy of the Brain.canvas",
+    "CompNeuro/PNS, 6e/Glossary/Allele.md",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/2.1 Genes Are Arranged on Chromosomes.md",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/2 The Understanding of the Strucuture of and Function of the Genome is Evolving.md"
   ]
 }
