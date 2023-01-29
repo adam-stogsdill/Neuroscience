@@ -12,8 +12,8 @@
 - [x] The Understanding of the Structure and Function of the Genome is Evolving ✅ 2023-01-25
 	- [x] Genes Are Arranged on Chromosomes ✅ 2023-01-25
 - [x] The Relationship Between Genotype and Phenotype Is Often Complex ✅ 2023-01-25
-- [ ] Genes are Conserved Through Evolution
-- [ ] Genetic Regulation of Behavior Can Be Studied in Animal Models
+- [x] Genes are Conserved Through Evolution ✅ 2023-01-26
+- [x] Genetic Regulation of Behavior Can Be Studied in Animal Models ✅ 2023-01-27
 	- [ ] A Transcriptional Oscillator Regulates Circadian Rhythm in Flied, Mice, and Humans
 	- [ ] Natural Variation in a Protein Kinase Regulates Activity in Flied and Honeybees
 	- [ ] Neuropeptide Receptors Regulate the Social Behaviors of Several Species
@@ -150,3 +150,27 @@
 - [ ] Neural Excitability Is Plastic
 
 ## Part III - Synaptic Transmission
+
+### 11 Overview of Synaptic Transmission
+- [ ] Synapses Are Predominantly Electrical or Chemical
+- [ ] Electrical Synapses Provide Rapid Signal Transmission
+	- [ ] Cells at an Electrical Synapse Are Connected by Gap-Junction Channels
+	- [ ] Electrical Transmission Allows Rapid and Synchronous Firing of Interconnected Cells
+	- [ ] Gap Junctions Have a Role in Glial Functions and Disease
+- [ ] Chemical Synapses Can Amplify Signals
+	- [ ] The Action of a Neurotransmitter Depends on the Properties of the Postsynaptic Receptor
+	- [ ] Activation of Postsynaptic Receptors Gates Ion Channels Either Directly or Indirectly
+- [ ] Electrical and Chemical Synapses Can Coexist and Interact
+
+## 12 Directly Gated Transmission
+- [ ] The Neuromuscular Junction Has Specialized Presynaptic and Postsynaptic Structures
+	- [ ] The Postsynaptic Potential Results From a Local Change in Membrane Permeability
+	- [ ] The Neurotransmitter Acetylcholine Is Released in Discrete Packets
+- [ ] Individual Acetylcholine Receptor-Channels Conduct All-or-None Currents
+	- [ ] The Ion Channel at the End-Plate Is Permeable to Both Sodium and Potassium Ions
+	- [ ] Four Factors Determine the End-Plate Current
+- [ ] The Acetylcholine Receptor-Channels Have Distinct Properties That Distinguish Them From the Voltage-Gated Channels That Generate the Muscle Action Potential
+	- [ ] Transmitter Binding Produces a Series of State Changes in the Acetylcholine Receptor-Channel
+	- [ ] The Low-Resolution Structure of the Acetylcholine Receptor is Revealed by Molecular and Biophysical Studies
+	- [ ] The High-Resolution Structure of the Acetylcholine Receptor-Channel Is Revealed by X-Ray Crystal Studies
+- [ ] Postscript: The End-Plate Current Can Be Calculated From an Equivalent Circuit

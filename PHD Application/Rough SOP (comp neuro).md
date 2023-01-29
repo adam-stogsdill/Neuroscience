@@ -1,0 +1,21 @@
+**[Introduction]**
+
+When I was a child, I had my whole life planned. I was going to attend college, study computer science, become a computer scientist, get my Ph.D., work, retire as a professor, and die. Oh, how naive I was. I never thought of the specifics. What do I do with the degrees that I've gotten? What do I teach? To what am I passionate? As a college senior, these questions started occupying more of my consciousness. All I know is that I wanted to impact the world. I didn't know what that was, but I knew I had time to figure it out. So I got accepted to the Colorado School of Mines, and after learning about the school, I knew I would get hands-on experience and learn about those specifics. Well, a day or two before I needed to move to Colorado, 1000 miles away from my family, and all I knew, my grandmother passed from complications due to Lupis.
+
+One of my biggest supporters and one of the pillars I relied on suddenly crumbled to debris. While internalizing this grief, I pushed forward with the frustration that I couldn't have done anything. Eventually, I learned that Artificial Intelligence satisfied my quirky interests in statistics, the human brain, and computation. Then, I started working with Dr. Tom Williams in the MirrorLab and studied human-robot interaction, something I believe would be my new passion. Then just as I was going to present my first paper at the prestigious conference, HRI, COVID-19 hit. Intense frustration hit. How could something like this happen? Why did medicine and healthcare, a field I was in due to my other grandmother's work, fail to stop this? The pandemic was just another instance of my inability to help. However, I gained tools and learned more about the power of Machine Learning and started to learn how to apply that to healthcare.
+
+  
+
+**[Body]**
+
+During the summer, my school has a class dedicated to capstone, where an industry professional proposes a problem they have and tasks students with solving it in a brief period. When looking at the projects in which I could participate. I found one that instantly caught my eye—an NLP project intended to disambiguate medical documentation for the average patient. The experience further cemented my newborn passion for the intersection of Healthcare and AI. From this work, I got recommended to a new company RAIsonance Inc, where I am currently employed. I work more intimately with patient data, analyzing their coughs for abnormalities and developing new technologies focused on diagnosing patients with COVID-19 or other lung-related inflictions. I've had the pleasure of working personally with a medical doctor and participating in the development of a clinical trial, assisting in the documentation of a EUA trial, and writing documentation for patents that are currently pending. 
+
+While these opportunities are excellent, I want more. I want to help more people and become an expert in this field. I've finally found my passion. I want to do applied research working with patient data, and developing new, better, generalizable models for assisting physicians with their tasks. While I currently do this for work. There is so much more learning to do. I want a rigorous, collaborative program that allows me to learn, teach, and research. The research areas at Stanford spark my passion intensely. Especially "Learning Health Systems" and "Clinical Decision Making." I have about two years of experience doing this and would be ecstatic to help contribute to this research. Having real-world experience working with patient data, I know the difficulty of acquisition, data exploration, model development, training, testing, and developing that into a final product. 
+
+I also have experience teaching ML to high school students (with less than the appropriate amount of math knowledgebase) and a passion for teaching students, as this is my strategy for learning new material. Therefore, I am prepared to be responsible for leading a class if given the opportunity. 
+
+  
+
+**[Conclusion]**
+
+While I do not have a formal background in Biology or Medicine, I am incredibly well-prepared in ML. However, I can provide my solid computational experience to the program. I have the drive and passion for learning as much as possible while in this program.

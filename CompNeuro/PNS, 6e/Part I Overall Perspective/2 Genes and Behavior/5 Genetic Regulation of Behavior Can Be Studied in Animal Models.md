@@ -1,0 +1,7 @@
+Because of the concept of evolutionary conservation between human and animal genes, <mark style="background: #FFB86CA6;">studies in proteins, and neural circuits that underlie behavior, we are likely to also yield insights into these relationships in humans</mark>.
+
+There are two important strategies to studying gene function:
+* <mark style="background: #ADCCFFA6;">Classical Genetic Analysis</mark> → subjects are subjected to <mark style="background: #BBFABBA6;">mutagenesis</mark> with a chemical or irradiation that induces <mark style="background: #BBFABBA6;">random mutations and then screened for heritable changes that affects behavior of interest</mark>, say, sleep. Thus the pathway of discover in classical genetics <mark style="background: #BBFABBA6;">moves from phenotype to genotype, from organism to gene.</mark>
+* <mark style="background: #FF5582A6;">Reverse Genetics</mark> → A **SPECIFIC** gene of interest is targeted for alteration, a genetically modified animal is produced, and the <mark style="background: #FFF3A3A6;">animals with these altered genes are studied</mark>. Method of discovery moves from genotype to phenotype, from gene to organism.
+
+These two experimental strategies and their more subtle variations form the basis of experimental genetics. Gene manipulation by classical and reverse genetics is conducted in experimental animals, not in humans.
