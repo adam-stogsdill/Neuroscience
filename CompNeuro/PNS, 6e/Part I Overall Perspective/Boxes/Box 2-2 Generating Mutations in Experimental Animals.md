@@ -25,5 +25,7 @@ There are two steps to creating a strain of mutant mice.
 
 ![[creating_mutant_mice_strains.png]]
 
+<mark style="background: #FFF3A3A6;">The gene of interest must first be cloned</mark>. The gene is **mutated**, and a selectable marker, using a drug-resistance gene, is then introduced into the mutated fragment. Then introduce the altered gene into the embryonic stem cells, and clones of cells that incorporated the altered gene are isolated.
 
+DNA samples of each clone are tested to identify a clone in which the mutated gene has been integrated into the homologous (normal) site, rather than some other random site.
 
