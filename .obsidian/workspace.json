@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "30044547cfbdc2b3",
+            "id": "2aa9fb8ac70db3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-2 Generating Mutations in Experimental Animals.md",
+                "file": "Biology/AP Biology Premium Prep/1 Chemistry of Life.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b2c92db88e5d3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/AP Biology Premium Prep/2 Cell Structure and Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,6 +73,14 @@
             }
           },
           {
+            "id": "8e36fcdae48e37a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "6ae3b4527b0f56dc",
             "type": "leaf",
             "state": {
@@ -72,14 +93,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "8e36fcdae48e37a9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-2 Generating Mutations in Experimental Animals.md",
+                "file": "Biology/AP Biology Premium Prep/1 Chemistry of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-2 Generating Mutations in Experimental Animals.md",
+                "file": "Biology/AP Biology Premium Prep/1 Chemistry of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-2 Generating Mutations in Experimental Animals.md"
+                "file": "Biology/AP Biology Premium Prep/1 Chemistry of Life.md"
               }
             }
           },
@@ -189,17 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30044547cfbdc2b3",
+  "active": "2aa9fb8ac70db3b1",
   "lastOpenFiles": [
+    "Biology/AP Biology Premium Prep/2 Cell Structure and Function.md",
+    "Biology/AP Biology Premium Prep/1 Chemistry of Life.md",
+    "PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
+    "PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
+    "PHD Stuff/Boston/Interview Research/Untitled.md",
+    "To Do List!!!.md",
     "README.md",
     "CompNeuro/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-2 Generating Mutations in Experimental Animals.md",
-    "PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
-    "PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
-    "homologous recombination 1.png",
-    "CodingStuff/LA For Data Science Excercises/Chapter 3/Chapter 3 Vectors, Part 2.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/Boxes/Box 2-3 Introducing Transgenes in Flies and Mice.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/5.1 A Transcriptional Oscillator Regulates Circadian Phythm in Flies, Mice, and Humans.md",
-    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/5 Genetic Regulation of Behavior Can Be Studied in Animal Models.md"
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/3 The Relationship Between Genotype and Phenotype is Often Complex.md",
+    "CompNeuro/PNS, 6e/Part I Overall Perspective/2 Genes and Behavior/4 Genes are Conserved Through Evolution.md"
   ]
 }
