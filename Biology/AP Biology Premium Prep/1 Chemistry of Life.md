@@ -203,7 +203,7 @@ The specific order of amino acids in a peptide can change the identity of the pe
 **Generally, all peptides will have an end with an amino group, called N-terminus or amino terminus, in addition to an end with a carboxyl group, called C-terminus or carboxyl terminus.**
 
 ### Higher Protein Structure
-The polypeptide has to go through several changes before it can officially be called a protein. Proteins can have four levels of structure. The linear sequence of the amino acids is called the **primary structure** of a protein. Now the polypeptide begins to twist, forming either a coil (known as an alpha helix) or zigzagging patter (known as beta-pleated sheets). These are examples of proteins' **secondary structure**.
+The polypeptide has to go through several changes before it can officially be called a protein. Proteins can have four levels of structure. The linear sequence of the amino acids is called the **primary structure** of a protein. Now the polypeptide begins to twist, forming either a coil (known as an alpha helix) or zigzagging pattern (known as beta-pleated sheets). These are examples of proteins' **secondary structure**.
 
 A <mark style="background: #FFB8EBA6;">polypeptide folds and twists because the different R-groups of the amino acids are interacting with each other</mark>. Depending on which amino acids are in a protein and the order that they are in, the protein can twist and fold in very different ways. <mark style="background: #FFB86CA6;">This is why proteins can form so many different shapes</mark>.
 
@@ -212,7 +212,7 @@ After the secondary structure reshapes the polypeptide, amino acids that were fa
 Lastly, several different polypeptide chains sometimes interact with each other to form a **quaternary structure**. The different polypeptide chains that  come together are often called **subunits** of the whole protein.
 ![[polypeptide_org.jpg|800]]
 A classic example of a protein with quaternary structure is hemoglobin. Each of the four polypeptide chains create a subunit of the final hemoglobin protein.
-![[Pasted image 20230201022412.png|700]]
+![[hemoglobin.png|700]]
 
 Only proteins that have folded correctly into their specific 3-dimensional structure can perform their function properly. Mistakes in the amino acid chain can create oddly shaped proteins that are nonfunctional
 
@@ -259,7 +259,7 @@ The <mark style="background: #FFB8EBA6;">two fatty acid tails</mark> are <mark s
 
 On the other hand, the <mark style="background: #ADCCFFA6;">phosphate "head"</mark> of the lipid is <mark style="background: #ADCCFFA6;">hydrophilic</mark>, meaning that it **does mix well with water**.
 
-Since a there is a <mark style="background: #FFB86CA6;">hydrophobic and a hydrophilic region</mark>, it is an <mark style="background: #FFB86CA6;">amphipathic molecule</mark>.
+Since there is a <mark style="background: #FFB86CA6;">hydrophobic and a hydrophilic region</mark>, it is an <mark style="background: #FFB86CA6;">amphipathic molecule</mark>.
 
 Thus, the two fatty acid chains orient themselves away from water, while the phosphate portion orients itself toward the water. (Keep this in mind for when we think of phospholipid functions and interactions)
 
@@ -292,7 +292,4 @@ DNA is important because it contains the heredity "blueprints" of all life. RNA 
 	* <mark style="background: #FFB8EBA6;">Lipids</mark>: chains called fatty acids (either saturated or unsaturated) combine on a glycerol backbone to form phospholipids and triglycerides.  Cholesterol is another type of lipid. Lipids are hydrophobic.
 	* <mark style="background: #FFB8EBA6;">Nucleic acids</mark>: chains of either DNA or RNA nucleotides. They carry the genetic recipes in the body.
 
-
-
-
-
+![[table_of_macromolecules.jpg]]
