@@ -1,0 +1,1 @@
+The process of copying a gene into RNA. This is the first step in turning a gene into a protein, although not all transcripts lead to proteins.

@@ -1,0 +1,1 @@
+An organism, with cells that have a complex internal structure, including a nucleus. Animals, plants, and fungi are all eukaryotes.

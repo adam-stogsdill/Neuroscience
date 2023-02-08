@@ -2,6 +2,14 @@
 Marc Howard's Lab: [Theoretical Cognitive Neuroscience Lab](https://sites.bu.edu/tcn/)
 Lab Description: Theoretical modeling of physically-constrained models of cognition, with attention given to learning and memory.
 
+#### Neural Theory of Cognition
+Hypothesis: The Brain uses the same form of representation to represent information as a function of continuous variables and a relatively small set of data independent operators to manipulate those functions.
+
+#### Neural Representations of time and space and other variables
+
+
+#### Deep Networks Inspired by Theoretical Neuroscience
+
 ### Joseph McGuire
 Joseph McGuire's Lab: [Cognition & Decision Lab](https://sites.bu.edu/cdlab/)
 Lab Description:

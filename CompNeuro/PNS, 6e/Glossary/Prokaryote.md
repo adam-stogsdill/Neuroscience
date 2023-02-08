@@ -1,0 +1,1 @@
+A single-celled organism with a simple internal structure and no nucleus. Bacteria and archaebacteria are prokaryotes

@@ -1,0 +1,1 @@
+A region of the genome that varies between individual members of a population. To be called a polymorphism, a variant should be present in a significant number of people in the population

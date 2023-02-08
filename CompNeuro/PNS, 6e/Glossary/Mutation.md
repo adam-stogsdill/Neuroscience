@@ -1,0 +1,1 @@
+An alteration in a genome compared to some reference state. Mutations do not always have harmful effects

@@ -1,0 +1,1 @@
+The process of generating sufficient copies of a particular piece of DNA to allow it to be sequenced or studied in some other way.

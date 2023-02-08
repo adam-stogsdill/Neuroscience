@@ -1,0 +1,1 @@
+A method for reducing the function of a specific gene by introducing into a cell small RNAs with complementarity to the targeted mRNA. Pairing of the mRNA with the small RNA leads to destruction of the endogenous mRNA

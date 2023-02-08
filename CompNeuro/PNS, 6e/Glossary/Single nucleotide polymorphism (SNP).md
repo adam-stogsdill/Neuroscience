@@ -1,0 +1,1 @@
+A polymorphism caused by the change of a single nucleotide. SNPs are often used in genetic mapping studies

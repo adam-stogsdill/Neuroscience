@@ -1,0 +1,1 @@
+Genes that are present in two distinct species are said to be conserved, and the two genes from different species are called _orthologous genes_. Conservation can be detected by measuring the similarity of the two sequences at the base (RNA or DNA) or amino acid (protein) level. The more similarities there are, the more highly conserved the two sequences.

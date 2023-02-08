@@ -1,0 +1,1 @@
+The complete set of proteins encoded by the genome

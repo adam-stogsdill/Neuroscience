@@ -1,0 +1,1 @@
+The regions on either side of the centromere are known as arms. As the centromere is not in the center of the chromosome, one arm is longer than the other

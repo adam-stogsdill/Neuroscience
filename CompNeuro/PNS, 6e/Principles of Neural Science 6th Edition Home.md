@@ -1,4 +1,3 @@
-
 ## Part I - Overall Perspective
 
 ### 1 The Brain and Behavior
@@ -14,16 +13,16 @@
 - [x] The Relationship Between Genotype and Phenotype Is Often Complex ✅ 2023-01-25
 - [x] Genes are Conserved Through Evolution ✅ 2023-01-26
 - [x] Genetic Regulation of Behavior Can Be Studied in Animal Models ✅ 2023-01-27
-	- [ ] A Transcriptional Oscillator Regulates Circadian Rhythm in Flied, Mice, and Humans
-	- [ ] Natural Variation in a Protein Kinase Regulates Activity in Flied and Honeybees
-	- [ ] Neuropeptide Receptors Regulate the Social Behaviors of Several Species
-- [ ] Studies of Human Genetic Syndromes Have Provided Initial Insights Into the Underpinnings of Social Behavior
-	- [ ] Brain Disorders in Humans Result From Interactions Between Genes and the Environment
-	- [ ] Rare Neurodevelopmental Syndromes Provide Insights Into the Biology of Social Behavior, Perception, and Cognition
-- [ ] Psychiatric Disorders Involve Multigenic Traits
-	- [ ] Advances in Autism Spectrum Disorder Genetics Highlight the Role of Rare and De Novo Mutations in Neurodevelopmental Disorders
-	- [ ] Identification of Genes for Schizophrenia Highlights the Interplay of Rare and Common Risk Variants
-- [ ] Perspectives on The Genetic Bases of Neuropsychiatric Disorders
+	- [x] A Transcriptional Oscillator Regulates Circadian Rhythm in Flied, Mice, and Humans ✅ 2023-02-05
+	- [x] Natural Variation in a Protein Kinase Regulates Activity in Flied and Honeybees ✅ 2023-02-06
+	- [x] Neuropeptide Receptors Regulate the Social Behaviors of Several Species ✅ 2023-02-07
+- [x] Studies of Human Genetic Syndromes Have Provided Initial Insights Into the Underpinnings of Social Behavior ✅ 2023-02-07
+	- [x] Brain Disorders in Humans Result From Interactions Between Genes and the Environment ✅ 2023-02-07
+	- [x] Rare Neurodevelopmental Syndromes Provide Insights Into the Biology of Social Behavior, Perception, and Cognition ✅ 2023-02-07
+- [x] Psychiatric Disorders Involve Multigenic Traits ✅ 2023-02-07
+	- [x] Advances in Autism Spectrum Disorder Genetics Highlight the Role of Rare and De Novo Mutations in Neurodevelopmental Disorders ✅ 2023-02-07
+	- [x] Identification of Genes for Schizophrenia Highlights the Interplay of Rare and Common Risk Variants ✅ 2023-02-07
+- [x] Perspectives on The Genetic Bases of Neuropsychiatric Disorders ✅ 2023-02-07
 
 ### 3 Nerve Cells, Neural Circuitry, and Behavior
 - [ ] The Nervous System Has Two Classes of Cells

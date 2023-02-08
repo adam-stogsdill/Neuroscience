@@ -1,5 +1,1 @@
-Tags: #Neuroscience #PNSBook #Vocabulary 
-
-An allele is one of two or more versions of a gene at a given locus (area on the chromosome).
-
-A set of alleles can be classified as homozygous (both are the same) or heterozygous (they are different, caused by some mutation).
+Humans carry two sets of chromosomes, one from each parent. Equivalent genes in the two sets might be different, for examples, because of a single nucleotide polymorphisms. An allele is one of the two (or more) forms of a particular gene.

@@ -1,0 +1,1 @@
+The process of using a messenger RNA sequence to synthesize a protein. The messenger RNA serves as a template on which transfer RNA molecules carrying amino acids, are lined up. The amino acids are then linked together to form a protein chain

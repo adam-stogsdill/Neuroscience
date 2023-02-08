@@ -1,0 +1,1 @@
+A deletion or duplication of a limited genetic region that results in an individual having more or fewer than the usual two copies of some genes. Copy number variations are observed in some neurological and psychiatric disorders.

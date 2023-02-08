@@ -1,0 +1,1 @@
+An enzyme that cleaves DNA at a particular short sequence. Different types of restriction endonuclease cleave at different sequences

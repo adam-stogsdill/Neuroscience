@@ -1,0 +1,1 @@
+Compact, gene-poor regions of a genome, which are enriched in simple sequence repeats

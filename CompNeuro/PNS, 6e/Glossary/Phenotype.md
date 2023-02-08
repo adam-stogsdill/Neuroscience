@@ -1,0 +1,1 @@
+The observable properties and physical characteristics of an organism

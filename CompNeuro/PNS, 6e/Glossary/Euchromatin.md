@@ -1,0 +1,1 @@
+The gene-rich regions of a genome

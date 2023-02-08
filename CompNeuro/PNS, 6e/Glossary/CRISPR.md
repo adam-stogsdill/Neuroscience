@@ -1,0 +1,2 @@
+(Clustered Regularly Interspaced Short Palindromic Repeats)
+An enzyme-RNA system in which the enzyme cleaves target sequences that match an RNA guid; the RNA guide can be engineered to recognize a desired gene or sequences within a cell for mutation
