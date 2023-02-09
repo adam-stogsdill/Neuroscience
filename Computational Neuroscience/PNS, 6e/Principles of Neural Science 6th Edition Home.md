@@ -3,9 +3,6 @@
 TABLE length(filter(file.tasks, (t) => t.completed)) as "Completed", length(filter(file.tasks, (t) => !t.completed)) AS "Uncompleted", length(filter(file.tasks, (t) => t.completed))/ length(filter(file.tasks, (t) => !t.completed)) * 100 as "Percent Complete" WHERE file.tasks AND length(file.tasks) > 0 AND length(filter(file.tasks, (t) => !t.completed)) > 0
 ```
 
-
-
-
 ## Part I - Overall Perspective
 
 ### 1 The Brain and Behavior
@@ -33,7 +30,7 @@ TABLE length(filter(file.tasks, (t) => t.completed)) as "Completed", length(filt
 - [x] Perspectives on The Genetic Bases of Neuropsychiatric Disorders ✅ 2023-02-07
 
 ### 3 Nerve Cells, Neural Circuitry, and Behavior
-- [ ] The Nervous System Has Two Classes of Cells
+- [x] The Nervous System Has Two Classes of Cells ✅ 2023-02-08
 	- [ ] Nerve Cells Are the Signaling Units of the Nervous System
 	- [ ] Glial Cells Support Nerve Cells
 - [ ] Each Nerve Cell Is Part of a Circuit That Mediates Specific Behaviors

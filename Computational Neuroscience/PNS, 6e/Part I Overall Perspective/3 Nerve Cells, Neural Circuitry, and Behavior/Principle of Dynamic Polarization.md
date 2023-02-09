@@ -1,0 +1,1 @@
+States that electrical signals within a nerve cell flow in only one direction: from the postsynaptic sites of the neuron, usually the dendrites and cell body, to the trigger region at the axon. From there, the AP is propagated along the entire length of the axon to its terminal.

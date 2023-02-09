@@ -1,0 +1,1 @@
+States that nerve cells don't connect randomly with one another in the formation of networks but make specific connections - at particular contact points - with certain postsynaptic target cells and not with others.

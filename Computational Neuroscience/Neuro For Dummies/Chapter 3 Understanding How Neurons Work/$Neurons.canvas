@@ -4,10 +4,10 @@
 		{"id":"58ee0b52a6d9e85a","x":-375,"y":93,"width":250,"height":396,"type":"text","text":"## Receptors\n\nConvert sensory stimuli into messages processed by the brain.\n\n\n"},
 		{"id":"90e24a627583af8a","x":125,"y":93,"width":250,"height":396,"type":"text","text":"## Non Receptors\n\nStimulate muscles and glands.\n"},
 		{"id":"79c160ec5d724912","x":-177,"y":-198,"width":354,"height":50,"type":"text","text":"NEURONS ARE CELLS!"},
-		{"id":"16cb74b6f1ac9295","x":-1438,"y":-656,"width":989,"height":656,"type":"file","file":"CompNeuro/External Resources/neuron_anatomy.png"},
+		{"id":"16cb74b6f1ac9295","x":-1438,"y":-656,"width":989,"height":656,"type":"file","file":"Computational Neuroscience/External Resources/neuron_anatomy.png"},
 		{"id":"bea59f4319e841ae","x":-1306,"y":93,"width":726,"height":612,"type":"text","text":"<mark style=\"background: #FFB86CA6;\">Here’s what makes neurons different from other cells!</mark>\n* A membrane with selective ion channels that can be opened by electrical events or binding by neurotransmitters\n* Dendrites, branching extensions from the cell body that receive inputs from other neurons\n* An axon, a single extension from the cell body that travels long distances (up to several feet) to contact other neurons\n"},
 		{"id":"4996ce05ea739faa","x":-2411,"y":-405,"width":781,"height":155,"type":"text","text":"While the <mark style=\"background: #FF5582A6;\">dendrites receive inputs from other cells</mark>, the <mark style=\"background: #ABF7F7A6;\">axon sends the output to other cells</mark>."},
-		{"id":"3808214cba5b25f7","x":375,"y":-1088,"width":1016,"height":940,"type":"file","file":"CompNeuro/External Resources/pre-postsynaptic_anatomy.jpg"},
+		{"id":"3808214cba5b25f7","x":375,"y":-1088,"width":1016,"height":940,"type":"file","file":"Computational Neuroscience/External Resources/pre-postsynaptic_anatomy.jpg"},
 		{"id":"0c952add3485c32c","x":1419,"y":-1088,"width":990,"height":350,"type":"text","text":"What are the receptors for, you ask? <mark style=\"background: #ABF7F7A6;\">Neural synaptic receptors receive information via little squirts of neurotransmitters from other neurons.</mark> 💦\n\nEach little squirt of neurotransmitter tells the <mark style=\"background: #FFF3A3A6;\">postsynaptic receptor (the receptor on the receiving neuron’s dendritic tree)</mark> a message from the <mark style=\"background: #ADCCFFA6;\">presynaptic cell (the one doing the squirting).</mark>"}
 	],
 	"edges":[
