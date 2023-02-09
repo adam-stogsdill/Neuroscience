@@ -26,12 +26,14 @@
             "id": "deb93ea01b71e5a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
+                "viewState": {
+                  "x": 816.1823139827358,
+                  "y": 3482.9748461127633,
+                  "zoom": -1.7782492029337995
+                }
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas"
               }
             }
           },
@@ -190,15 +192,15 @@
   },
   "active": "deb93ea01b71e5a5",
   "lastOpenFiles": [
-    "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
+    "Computational Neuroscience/Main Hub.md",
+    "Expert Hours!.md",
+    "obsidian.css.md",
     "README.md",
+    "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
     "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
     "Computational Neuroscience/PNS, 6e/images/multipolar_cells.png",
     "Computational Neuroscience/PNS, 6e/images/pseudo-unipolar_cell.png",
     "Computational Neuroscience/PNS, 6e/images/bipolar_cell.png",
-    "Computational Neuroscience/PNS, 6e/images/unipolar_cell_structure.png",
-    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Neuron Doctrine.md",
-    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/1 Two Opposing Views Have Been Advanced on the Relationship Between Brain and Behavior.md",
-    "neuron doctrine.md"
+    "Computational Neuroscience/PNS, 6e/images/unipolar_cell_structure.png"
   ]
 }
