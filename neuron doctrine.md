@@ -1,0 +1,1 @@
+Previously mentioned in [[CompNeuro/PNS, 6e/Part I Overall Perspective/1 The Brain and Behavior/1 Two Opposing Views Have Been Advanced on the Relationship Between Brain and Behavior.md#^92db20|Chapter 1]].

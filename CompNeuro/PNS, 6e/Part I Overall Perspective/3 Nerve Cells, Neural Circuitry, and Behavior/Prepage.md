@@ -1,0 +1,5 @@
+The brain actively organizes sensory information for **perception**, **action**, **decision-making**, **aesthetic appreciation**, and **future reference** -- that is to say, *memory*. It does this while also ignoring and discarding information judiciously. All this is accomplished by interconnected nerve cells.
+
+Individual nerve cells (neurons) are the basic signaling units of the brain. Humans contain about 86 billion, and can be <mark style="background: #FFB86CA6;">classified into at least 1000 different types</mark>. However, the <mark style="background: #BBFABBA6;">organization into anatomical circuits with precise function</mark> is what truly generates complex human behavior.
+
+One key organizational principle of the brain it that it organizes nerve cells with similar properties can produce different actions because of the way they are **connected**.

@@ -1,3 +1,11 @@
+
+```dataview
+TABLE length(filter(file.tasks, (t) => t.completed)) as "Completed", length(filter(file.tasks, (t) => !t.completed)) AS "Uncompleted", length(filter(file.tasks, (t) => t.completed))/ length(filter(file.tasks, (t) => !t.completed)) * 100 as "Percent Complete" WHERE file.tasks AND length(file.tasks) > 0 AND length(filter(file.tasks, (t) => !t.completed)) > 0
+```
+
+
+
+
 ## Part I - Overall Perspective
 
 ### 1 The Brain and Behavior
@@ -173,3 +181,108 @@
 	- [ ] The Low-Resolution Structure of the Acetylcholine Receptor is Revealed by Molecular and Biophysical Studies
 	- [ ] The High-Resolution Structure of the Acetylcholine Receptor-Channel Is Revealed by X-Ray Crystal Studies
 - [ ] Postscript: The End-Plate Current Can Be Calculated From an Equivalent Circuit
+
+## 13 Synaptic Integration in the Central Nervous System
+- [ ] Central Neurons Receive Excitatory and Inhibitory Inputs
+- [ ] Excitatory and Inhibitory Synapses Have Distinctive Ultrastructures and Target Different Neuronal Regions
+- [ ] Excitatory Synaptic Transmission Is Mediated by Ionotropic Glutamate Receptor-Channels Permeable to Cations
+	- [ ] The Ionotropic Glutamate Receptors Are Encoded by a Large Gene Family
+	- [ ] Glutamate Receptors Are Constructed From a Set of Structural Modules
+	- [ ] NMDA and AMPA Receptors are Organized by a Network of Proteins at the Postsynaptic Density
+	- [ ] NMDA Receptors Have Unique Biophysical and Pharmacological Properties
+	- [ ] The Properties of the NMDA Receptor Underlie Long-term Synaptic Plasticity
+	- [ ] NMDA Receptors Contribute to Neuropsychiatric Disease
+- [ ] Fast Inhibitory Synaptic Actions Are Mediated by Ionotropic GABA and Glycine Receptor-Channels Permeable to Chloride
+- [ ] Ionotropic Glutamate GABA and Glycine Receptors Are Transmembrane Proteins Encoded by Two Distinct Gene Families
+	- [ ] Chloride Currents Through GABA, and Glycine Receptor-Channels Normally Inhibit the Postsynaptic Cell
+- [ ] Some Synaptic Actions in the CNS Depend on Other Types of IOnotropic Receptors
+- [ ] Excitatory and Inhibitory Synaptic Actions Are Integrated by Neurons Into a Single Output
+	- [ ] Synaptic Inputs Are Integrated at the Axon Initial Segment
+	- [ ] Subclasses of GABAergic Neurons Neurons Target Distinct Regions of Their Postsynaptic Target Neurons to Produce Inhibitory Actions With Different Functions
+	- [ ] Dendrites Are Electrically Excitable Structures That Can Amplify Synaptic Input
+
+## 14 Modulation of Synaptic Transmission and Neuronal Excitability: Second Messengers
+* [ ] The Cyclic AMP Pathway Is the Best Understood Second-Messenger Signaling Cascade Initiated by G Protein-Coupled Receptors
+* [ ] The Second-Messenger Pathways Initiated by G Protein-Coupled Receptors Share a Common Molecular Logic
+	* [ ] A Family of G Proteins Activates Distinct Second-Messenger Pathways
+	* [ ] Hydrolysis of Phospholipids by Phospholipase C Produces Two Important Second Messengers, $IP_3$ and Diacylglycerol
+* [ ] Receptor Tyrosine Kinases Compose the Second Major Family of Metabotropic Receptors
+* [ ] Several Classes of Metabolites Can Serve as Transcellular Messengers
+	* [ ] Hydrolysis of Phospholipids by Phospholipase $A_2$ Liberates Arachidonic Acid to Produce Other Second Messengers
+	* [ ] Endocannabinoids Are Transcellular Messengers That Inhibit Presynaptic Transmitter Release
+	* [ ] The Gaseous Second Messenger Nitric Oxide Is a Transcellular Signal That Stimulates Stimulates Cyclic GMP Synthesis
+* [ ] The Physiological Actions of Metabotropic Receptors Differ From Those of Ionotropic Receptors
+	* [ ] Second-Messenger Cascades Can Increase or Decrease the Opening of Many Types of Ion Channels
+	* [ ] G Proteins Can Modulate Ion Channels Directly
+	* [ ] Cyclic AMP-Dependent Protein Phosphorylation Can Close Potassium Channels
+* [ ] Second Messengers Can Endow Synaptic Transmission with Long-Lasting Consequences
+* [ ] Modulators Can Influence Circuit Function by Altering Intrinsic Excitability of Synaptic Strength
+	* [ ] Multiple Neuromodulators Can Converge Onto the Same Neuron and Ion Channels 
+	* [ ] Why So Many Modulators?
+
+## 15 Transmitter Release
+- [ ] Transmitter Release is Regulated by Depolarization of the Presynaptic Terminal
+- [ ] Release Is Triggered by Calcium Influx
+	- [ ] The Relation Between Presynaptic Calcium Concentration and Release
+	- [ ] Several Classes of Calcium Channels Mediate Transmitter Release
+- [ ] Transmitter Is Released in Quantal Units
+- [ ] Transmitter Is Store and Released by Synaptic Vesicles
+	- [ ] Synaptic Vesicles Discharge Transmitter by Exocytosis and Are Recycled by Endocytosis
+	- [ ] Capacitance Measurements Provide Insights Into the Kinetics of Exocytosis and Endocytosis
+	- [ ] Exocytosis Involved the Formation of a Temporary Fusion Pore
+	- [ ] The Synaptic Vesicle Cycle Involves Several Steps
+- [ ] Exocytosis of Synaptic Vesicle Relies on a Highly Conserved Protein Machinery
+	- [ ] The Synapsins Are Important for Vesicle Restraint and Mobilization 
+	- [ ] SNARE Proteins Catalyze Fusion Vesicles with the Plasma Membrane
+	- [ ] Calcium Binding to Synaptotagmin  Triggers Transmitter Release
+	- [ ] The Fusion Machinery Is Embedded in a Conserved Protein Scaffold at the Active Zone
+- [ ] Modulation of Transmitter Release Underlies Synaptic Plasticity
+	- [ ] Activity-Dependent Changes in Intracellular Free Calcium Can Produce Long-Lasting Changes in Release
+	- [ ] Axo-axonic Synapses on Presynaptic Terminals Regulate Transmitter Release
+
+## 16 Neurotransmitters
+- [ ] A Chemical Messenger Must Meet Four Criteria to Be Considered a Neurotransmitter
+- [ ] Only a Few Small-Molecule Substances Act as Transmitters
+	- [ ] Acetylcholine
+	- [ ] Biogenic Amine Transmitters
+	- [ ] Amino Acid Transmitters
+	- [ ] ATP and Adenosine
+- [ ] Small Molecule Transmitters Are Actively Taken Up Into Vesicles
+- [ ] Many Neuroactive Peptides Serve as Transmitters
+- [ ] Peptides and Small-Molecule Transmitters Differ in Several Ways
+- [ ] Peptides and Small-Molecule Transmitters Can Be Co-released
+- [ ] Removal of Transmitter From the Synaptic Cleft Terminates Synaptic Transmission
+
+# Part IV - Perception
+
+## 17 Sensory Coding
+- [ ] Psychophysics Relates Sensations to the Physical Properties of Stimuli
+	- [ ] Psychophysics Quantifies the Perception of Stimulus Properties
+- [ ] Stimuli Are Represented in the Nervous System by Firing Patterns of Neurons
+	- [ ] Sensory Receptors Respond to Specific Classes of Stimulus Energy
+	- [ ] Multiple Subclasses of Sensory Receptors Are Found in Each Sense Organ
+	- [ ] Receptor Population Codes Transmit Sensory Information to the Brain
+	- [ ] Sequences of Action Potentials Signal the Temporal Dynamics of Stimuli
+	- [ ] The Receptive Fields of Sensory Neurons Provide Spatial Information About Stimulus Location
+- [ ] Central Nervous System Circuits Refine Sensory Information
+	- [ ] The Receptor Surface Is Represented Topographically in the Early Stages of Each Sensory System
+	- [ ] Sensory Information Is Processed in Parallel Pathways in the Cerebral Cortex
+	- [ ] Feedback Pathways From the Brain Regulate Sensory Coding Mechanisms
+	- [ ] Top-Down Learning Mechanisms Influence Sensory Processing
+
+## 18 Receptors of the Somatosensory System
+- [ ] Dorsal Root Ganglion Neurons Are the Primary Sensory Receptor Cells of the Somatosensory System
+- [ ] Peripheral Somatosensory Nerve Fibers Conduct Action Potentials at Different Rates
+- [ ] A Variety of Specialized Receptors Are Employed by the Somatosensory System
+	- [ ] Mechanoreceptors Mediate Touch and Proprioception
+	- [ ] Specialized End Organs Contribute to Mechanosensation
+	- [ ] Proprioceptors Measure Muscle Activity and Join Positions
+	- [ ] Thermal Receptors Detect Changes in Skin Temperature
+	- [ ] Nociceptors Mediate Pain
+	- [ ] Itch Is a Distinctive Cutaneous Sensation
+	- [ ] Visceral Sensations Present the Status of Internal Organs
+- [ ] Action Potential Codes Transmit Somatosensory Information to the Brain
+	- [ ] Sensory Ganglia Provide a Snapshot of Population Responses to Somatic Stimuli
+	- [ ] Somatosensory Information Enters the Central Nervous System Via Spinal or Cranial Nerves
+
+## 19 Touch

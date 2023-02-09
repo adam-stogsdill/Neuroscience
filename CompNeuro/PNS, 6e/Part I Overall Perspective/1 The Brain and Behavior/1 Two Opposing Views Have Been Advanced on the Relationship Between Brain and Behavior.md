@@ -13,7 +13,7 @@ Using Golgi's technique, Ramon y Cajal observed that each neuron typically has a
 1) branching dendrites at one end
 2) a long, cable-like axon at the other
 
-Cajal concluded that nervous tissue is not a [[Syncytium|syncytium]]but a <mark style="background: #BBFABBA6;">network of discrete cells</mark>. In the course of this work, Ramon y Cajal developed some of the key concepts and much of the early evidence for the **_[[|neuron doctrine]]_** - <mark style="background: #FFF3A3A6;">the principle that individual neurons are the elementary building blocks and signaling elements of the nervous system.</mark>
+Cajal concluded that nervous tissue is not a [[Syncytium|syncytium]]but a <mark style="background: #BBFABBA6;">network of discrete cells</mark>. In the course of this work, Ramon y Cajal developed some of the key concepts and much of the early evidence for the **_[[|neuron doctrine]]_** - <mark style="background: #FFF3A3A6;">the principle that individual neurons are the elementary building blocks and signaling elements of the nervous system.</mark> ^92db20
 
 
 ### Embryology

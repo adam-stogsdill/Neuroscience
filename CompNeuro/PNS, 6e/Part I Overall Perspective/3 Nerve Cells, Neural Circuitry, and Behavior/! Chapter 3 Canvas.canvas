@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"cdddb2e45d6ba4e8","x":-740,"y":-280,"width":1060,"height":920,"type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Prepage.md"},
+		{"id":"111a85fb242933d4","x":-739,"y":680,"width":1059,"height":683,"type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Five Basic Features of the Nervous System.md"},
+		{"id":"e91473641fc450d5","x":498,"y":-160,"width":682,"height":220,"type":"text","text":"1) Consider the structure  and function of neurons and the glial cells that surround and support them "},
+		{"id":"e2e0f2d58470f6e3","x":498,"y":100,"width":682,"height":320,"type":"text","text":"2. Examine how individual cells organize and transmit signals and how signaling between a few interconnected nerve cells produces a simple behavior, the knee-jerk reflex."},
+		{"id":"26e53b88edcbf77b","x":489,"y":-280,"width":700,"height":72,"type":"text","text":"### Organization of the Chapter"},
+		{"id":"99f1c7bf5d72709a","x":498,"y":454,"width":682,"height":226,"type":"text","text":"3. Extend these ideas to more complex behaviors, mediated by more complex and malleable circuits."},
+		{"id":"e0722662323c64c6","x":1420,"y":-280,"width":920,"height":540,"color":"5","type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Nerve Cells Are Signaling Units of the Nervous System.md"},
+		{"id":"4331ef172b1c8263","x":1420,"y":402,"width":920,"height":961,"color":"1","type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/The Cell Body (Soma).md"},
+		{"id":"886525b379f2a792","x":2640,"y":-890,"width":506,"height":1220,"type":"file","file":"CompNeuro/PNS, 6e/images/Structure of a neuron.png"},
+		{"id":"d46a7f0339a38fc9","x":2556,"y":402,"width":1764,"height":1098,"color":"4","type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Action Potentials.md"},
+		{"id":"8f2ecb5d274c09e8","x":3280,"y":-798,"width":899,"height":1036,"type":"file","file":"CompNeuro/PNS, 6e/images/AP Voltage.png"},
+		{"id":"97e27e93a46d1812","x":4400,"y":402,"width":680,"height":678,"color":"6","type":"text","text":"#### Myelin\nTo increase the speed that APs are conducted, the axons are wrapped in an <mark style=\"background: #ADCCFFA6;\">insulating sheath of a lipid substance</mark>, **myelin**.\n\n\n### Nodes of Ranvier\nThe intervals where the myelin is discontinued are called the \"nodes of Ranvier\". Here we **REGENERATE** the signal."},
+		{"id":"8cd868154df5d0b5","x":2556,"y":1540,"width":1764,"height":740,"color":"2","type":"file","file":"CompNeuro/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/Synapses.md"},
+		{"id":"6db30abbdac91efb","x":1420,"y":1413,"width":920,"height":867,"color":"3","type":"file","file":"Neuron Doctrine.md"}
+	],
+	"edges":[
+		{"id":"20be0ce198fedf2f","fromNode":"26e53b88edcbf77b","fromSide":"bottom","toNode":"e91473641fc450d5","toSide":"top"},
+		{"id":"5719df1bdd1766a1","fromNode":"e91473641fc450d5","fromSide":"bottom","toNode":"e2e0f2d58470f6e3","toSide":"top"},
+		{"id":"af883aaf98d4908f","fromNode":"e2e0f2d58470f6e3","fromSide":"bottom","toNode":"99f1c7bf5d72709a","toSide":"top"},
+		{"id":"df743981dfe19a2e","fromNode":"e0722662323c64c6","fromSide":"right","toNode":"886525b379f2a792","toSide":"left"},
+		{"id":"54f6541b808ab980","fromNode":"e0722662323c64c6","fromSide":"bottom","toNode":"4331ef172b1c8263","toSide":"top"},
+		{"id":"2340f8c57815e93b","fromNode":"4331ef172b1c8263","fromSide":"right","toNode":"d46a7f0339a38fc9","toSide":"left"},
+		{"id":"9f895286bf7eac7d","fromNode":"d46a7f0339a38fc9","fromSide":"top","toNode":"8f2ecb5d274c09e8","toSide":"bottom"},
+		{"id":"6e3902f72231bf56","fromNode":"d46a7f0339a38fc9","fromSide":"right","toNode":"97e27e93a46d1812","toSide":"left"},
+		{"id":"1e33501ed1976c55","fromNode":"4331ef172b1c8263","fromSide":"right","toNode":"8cd868154df5d0b5","toSide":"left"},
+		{"id":"813978d2947b21d4","fromNode":"8cd868154df5d0b5","fromSide":"top","toNode":"886525b379f2a792","toSide":"bottom"}
+	]
+}
