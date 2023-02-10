@@ -23,16 +23,16 @@
             }
           },
           {
-            "id": "deb93ea01b71e5a5",
+            "id": "3fc168e9bec701a6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
                 "viewState": {
-                  "x": 816.1823139827358,
-                  "y": 3482.9748461127633,
-                  "zoom": -1.7782492029337995
+                  "x": 2466.6106113477385,
+                  "y": 2996.903388348138,
+                  "zoom": -3.1183700822226794
                 }
               }
             }
@@ -190,17 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deb93ea01b71e5a5",
+  "active": "3fc168e9bec701a6",
   "lastOpenFiles": [
-    "Computational Neuroscience/Main Hub.md",
-    "Expert Hours!.md",
-    "obsidian.css.md",
-    "README.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
     "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
-    "Computational Neuroscience/PNS, 6e/images/multipolar_cells.png",
-    "Computational Neuroscience/PNS, 6e/images/pseudo-unipolar_cell.png",
-    "Computational Neuroscience/PNS, 6e/images/bipolar_cell.png",
-    "Computational Neuroscience/PNS, 6e/images/unipolar_cell_structure.png"
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/interviewer profile pictures/marc howard profile.png",
+    "Computational Neuroscience/PNS, 6e/images/knee-jerk reflex.png",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Cognition/Cognitive computation using neural representations of time and space in the Laplace Domain.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled 1.md",
+    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas"
   ]
 }

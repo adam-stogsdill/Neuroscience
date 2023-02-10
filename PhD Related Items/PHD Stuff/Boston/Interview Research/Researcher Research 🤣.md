@@ -3,7 +3,7 @@ Marc Howard's Lab: [Theoretical Cognitive Neuroscience Lab](https://sites.bu.edu
 Lab Description: Theoretical modeling of physically-constrained models of cognition, with attention given to learning and memory.
 
 #### Neural Theory of Cognition
-Hypothesis: The Brain uses the same form of representation to represent information as a function of continuous variables and a relatively small set of data independent operators to manipulate those functions.
+Hypothesis: The Brain uses the same form of representation to represent information as a function of continuous variables and a relatively small set of data independent operators to manipulate those functions. ([[Cognitive computation using neural representations of time and space in the Laplace Domain|Howard & Hasselmo, 2020]])
 
 #### Neural Representations of time and space and other variables
 

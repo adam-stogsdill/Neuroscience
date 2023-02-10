@@ -1,0 +1,1 @@
+Every behavior is mediated by specific sets of interconnected neurons, and <mark style="background: #FF5582A6;">every neuron's behavioral function is determined by its connections with other neurons</mark>.

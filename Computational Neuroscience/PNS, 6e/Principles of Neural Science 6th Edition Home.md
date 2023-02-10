@@ -31,8 +31,8 @@ TABLE length(filter(file.tasks, (t) => t.completed)) as "Completed", length(filt
 
 ### 3 Nerve Cells, Neural Circuitry, and Behavior
 - [x] The Nervous System Has Two Classes of Cells ✅ 2023-02-08
-	- [ ] Nerve Cells Are the Signaling Units of the Nervous System
-	- [ ] Glial Cells Support Nerve Cells
+	- [x] Nerve Cells Are the Signaling Units of the Nervous System ✅ 2023-02-09
+	- [x] Glial Cells Support Nerve Cells ✅ 2023-02-09
 - [ ] Each Nerve Cell Is Part of a Circuit That Mediates Specific Behaviors
 - [ ] Signaling Is Organized in the Same Way in All Nerve Cells
 	- [ ] The Input Component Produces Graded Local Signals
