@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1e72422eeea5f6",
+        "id": "de2f299a4bc0fb44",
         "type": "tabs",
         "children": [
           {
-            "id": "78bb77aad72677bf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6fc36b06e93d7f01",
+            "id": "697fc61b8f17ee2e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
                 "viewState": {
-                  "x": 283.9943686130533,
-                  "y": 8744.407246362449,
-                  "zoom": -3.447838921199243
+                  "x": 1258.6487679201064,
+                  "y": 10494.875700782177,
+                  "zoom": -0.5809361514189446
                 }
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2f07c441bd6774af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "27479cce9766a9d0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf"
               }
             }
           }
@@ -206,17 +174,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fc36b06e93d7f01",
+  "active": "697fc61b8f17ee2e",
   "lastOpenFiles": [
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.pdf",
-    "Expert Hours!.md",
-    "Untitled.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.png",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf",
     "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/marchoward_drawing.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/LaplaceReview-arXiv.pdf",
-    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled.md"
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
+    "README.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/read.md",
+    "Expert Hours!.md"
   ]
 }
