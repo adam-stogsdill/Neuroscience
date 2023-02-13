@@ -23,22 +23,38 @@
             }
           },
           {
-            "id": "3fc168e9bec701a6",
+            "id": "6fc36b06e93d7f01",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
                 "viewState": {
-                  "x": 9679.752650856504,
-                  "y": 4005.879163420447,
-                  "zoom": -1.056485375033805
+                  "x": 283.9943686130533,
+                  "y": 8744.407246362449,
+                  "zoom": -3.447838921199243
                 }
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2f07c441bd6774af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27479cce9766a9d0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,17 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fc168e9bec701a6",
+  "active": "6fc36b06e93d7f01",
   "lastOpenFiles": [
-    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.pdf",
+    "Expert Hours!.md",
+    "Untitled.md",
     "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/interviewer profile pictures/marc howard profile.png",
-    "Computational Neuroscience/PNS, 6e/images/knee-jerk reflex.png",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Cognition/Cognitive computation using neural representations of time and space in the Laplace Domain.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled 1.md"
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/marchoward_drawing.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/LaplaceReview-arXiv.pdf",
+    "Computational Neuroscience/PNS, 6e/Part I Overall Perspective/3 Nerve Cells, Neural Circuitry, and Behavior/! Chapter 3 Canvas.canvas",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Untitled.md"
   ]
 }
