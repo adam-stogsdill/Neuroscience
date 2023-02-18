@@ -13,16 +13,56 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
                 "viewState": {
-                  "x": 1931.9470670129099,
-                  "y": 10942.813825385267,
-                  "zoom": -0.5809361514189446
+                  "x": 342.9453125,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "760767404b2fb5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deb8d1d993620dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "841b6ae8aa6727a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas"
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md"
               }
             }
           },
@@ -174,17 +214,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "697fc61b8f17ee2e",
+  "active": "841b6ae8aa6727a8",
   "lastOpenFiles": [
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Questions to Ask.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.pdf",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.png",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/A computational model for simulating the future using a memory timeline.pdf",
-    "Computational Neuroscience/PNS, 6e/Principles of Neural Science 6th Edition Home.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Researcher Research 🤣.md",
-    "README.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/read.md",
-    "Expert Hours!.md"
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg"
   ]
 }
