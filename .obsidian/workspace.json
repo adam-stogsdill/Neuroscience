@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md"
+                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md"
               }
             }
           },
@@ -214,11 +214,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "841b6ae8aa6727a8",
+  "active": "2599959dfa1d2bef",
   "lastOpenFiles": [
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding I Firing Rates and Spike Statistics",
+    "Computational Neuroscience/Theoretical Neuroscience",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Questions to Ask.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events.md",
