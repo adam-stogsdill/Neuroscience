@@ -4,65 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "de2f299a4bc0fb44",
+        "id": "33808d8c59829574",
         "type": "tabs",
         "children": [
           {
-            "id": "697fc61b8f17ee2e",
+            "id": "9dc54ac7fc6bc3d9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
                 "viewState": {
-                  "x": 342.9453125,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 1363.5204023240972,
+                  "y": -36.15265679790984,
+                  "zoom": -0.8212955272197722
                 }
               }
             }
-          },
-          {
-            "id": "760767404b2fb5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deb8d1d993620dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841b6ae8aa6727a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md"
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md"
               }
             }
           },
@@ -214,17 +174,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2599959dfa1d2bef",
+  "active": "9dc54ac7fc6bc3d9",
   "lastOpenFiles": [
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding I Firing Rates and Spike Statistics",
-    "Computational Neuroscience/Theoretical Neuroscience",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics",
+    "Computational Neuroscience/Theoretical Neuroscience/Preface.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Tyler Perrachione/Papers Abstracts.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/John A. White/Paper Abstracts.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Methods.md",
+    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Results.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
+    "Computational Neuroscience/Theoretical Neuroscience",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Questions to Ask.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.pdf",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg"
