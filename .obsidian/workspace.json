@@ -11,14 +11,12 @@
             "id": "9dc54ac7fc6bc3d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
-                "viewState": {
-                  "x": 1363.5204023240972,
-                  "y": -36.15265679790984,
-                  "zoom": -0.8212955272197722
-                }
+                "file": "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/Methods for Building Network Models of Neural Circuits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,12 +65,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2d26fc49e87f15fa",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 331.5
   },
   "right": {
     "id": "087104f852d02dab",
@@ -88,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
+                "file": "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/Methods for Building Network Models of Neural Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
+                "file": "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/Methods for Building Network Models of Neural Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md"
+                "file": "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/Methods for Building Network Models of Neural Circuits.md"
               }
             }
           },
@@ -176,11 +183,38 @@
   },
   "active": "9dc54ac7fc6bc3d9",
   "lastOpenFiles": [
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale/Methods for Building Network Models of Neural Circuits.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/1 Researcher Research.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Marc Howard",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Arash Yazdanbakhsh",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Joseph McGuire",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Tyler Perrachione",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Untitled.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Untitled.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder",
+    "PhD Related Items/PHD Stuff/Boston/Todo List.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/0 SOP Reread.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/7 Questions to ask.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/6 Tell me about yourself.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/5 What are your strengths and weaknesses?.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/4 What kind of research do you want to do?.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/3 What drew you to this program?.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/2 Why do you want a PhD?.md",
+    "PhD Related Items/PHD Stuff/Boston/Untitled.md",
+    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
+    "Context",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Membrane Potential.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Images",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Ion Channels.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230221221750.png",
+    "Expert Hours!.md",
+    "Untitled.md",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Properties of Neurons.md",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics",
     "Computational Neuroscience/Theoretical Neuroscience/Preface.md",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Tyler Perrachione/Papers Abstracts.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/John A. White/Paper Abstracts.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Interview Tips.md",
@@ -188,14 +222,7 @@
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Abstract.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Introduction.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Methods.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events/Results.md",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
-    "Computational Neuroscience/Theoretical Neuroscience",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Common Interview Questions.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Questions to Ask.md",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Experience-driven Recalibration of Learning from Surprising Events.md",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
-    "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.pdf",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg"
   ]
 }

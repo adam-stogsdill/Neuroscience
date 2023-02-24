@@ -1,0 +1,92 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": false,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": false,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "pages",
+      "Misc",
+      "Misc/Online Courses"
+    ],
+    "PhD": [
+      "PhD Related Items",
+      "PhD Related Items/PHD Stuff",
+      "PhD Related Items/PHD Stuff/Boston",
+      "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder",
+      "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder",
+      "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale"
+    ],
+    "Neuro": [
+      "Computational Neuroscience",
+      "Computational Neuroscience/Theoretical Neuroscience",
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics"
+    ]
+  },
+  "expandedSpaces": [
+    null,
+    "PhD",
+    "Machine LearningMathematics",
+    "Misc",
+    "Neuro"
+  ],
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "pinnedSpaces": [],
+  "menuTriggerChar": "\\",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "inlineBacklinks": true,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": true,
+  "inlineContextExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical"
+}
