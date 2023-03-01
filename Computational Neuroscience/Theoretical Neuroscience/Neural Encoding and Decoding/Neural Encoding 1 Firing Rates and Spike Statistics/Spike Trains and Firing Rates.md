@@ -1,0 +1,6 @@
+Action potentials convey information through their timing! Although action potentials can vary somewhat in <mark style='background:#eb3b5a'>duration</mark>, <mark style='background:#eb3b5a'>amplitude</mark>, and <mark style='background:#eb3b5a'>shape</mark>, they are typically treated as identical stereotyped events in neural encoding studies.
+
+An AP sequence can be characterized simply by a list of the times when spikes occurred. For _n_ spikes, we denote these types by $t_i$ with $i=1,2,...,n$. The trial during which the spikes are recorded is taken to start at time 0 and end at time $T$, so $0 ≤ t_i ≤ T$ for all $i$. The spike sequence can also be represented as a sum of infinitesimally narrow, idealized spikes in the form of Dirac $\delta$ functions. $$\rho(t)=\sum^{n}_{i=1}\delta(t-t_i)$$
+We call $\rho(t)$ the neural response function and use it to re-express sums over spikes as integrals over time. For example, for any well behaved function $h(t)$, we can write $$\sum^{n}_{i=1}h(t-t_i)=\int^{\infty}_{-\infty}h(\tau)\rho(t-\tau)d\tau$$
+where the integral is over the duration of the trial. The equality follows from the basic defining equation for a $\delta$ function, $$\int\delta(t-\tau)h(t)d\tau = h(t)$$
+provided that the limits of the integral surround the point $t$ (if they do not, the integral is 0)

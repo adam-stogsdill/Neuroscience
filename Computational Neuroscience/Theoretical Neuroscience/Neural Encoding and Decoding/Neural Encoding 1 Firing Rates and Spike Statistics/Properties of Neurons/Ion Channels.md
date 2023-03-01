@@ -1,3 +1,4 @@
+
 Neurons have physiological specializations. Most prominent among these are a wide variety of membrane-spanning **_ion channels_** that allow ions such as:
 * Sodium $Na^+$
 * Potassium $K^+$

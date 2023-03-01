@@ -1,0 +1,60 @@
+{
+  "dayCounts": {
+    "2023/1/24": 216,
+    "2023/1/28": 1323
+  },
+  "todaysWordCount": {
+    "Computational Neuroscience/Biophysics of Computation/Introduction.md": {
+      "initial": 1,
+      "current": 243
+    },
+    "Computational Neuroscience/Biophysics of Computation/1 The Membrane Equation.md": {
+      "initial": 1,
+      "current": 93
+    },
+    "Computational Neuroscience/Biophysics of Computation/The Membrane Equation.md": {
+      "initial": 94,
+      "current": 163
+    },
+    "Computational Neuroscience/Biophysics of Computation/Chapter 1/Structure of the Passive Neuronal Membrane.md": {
+      "initial": 1,
+      "current": 53
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Membrane Potential.md": {
+      "initial": 129,
+      "current": 130
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Ion Channels.md": {
+      "initial": 71,
+      "current": 71
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Action Potential.md": {
+      "initial": 1,
+      "current": 87
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Synapses.md": {
+      "initial": 1,
+      "current": 79
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Recoding .md": {
+      "initial": 1,
+      "current": 0
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Recoding Neuronal Responses.md": {
+      "initial": 1,
+      "current": 19
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recording Neuronal Responses/Recoding Neuronal Responses.md": {
+      "initial": 19,
+      "current": 211
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/From Stimulus to Response.md": {
+      "initial": 1,
+      "current": 258
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md": {
+      "initial": 1,
+      "current": 237
+    }
+  }
+}

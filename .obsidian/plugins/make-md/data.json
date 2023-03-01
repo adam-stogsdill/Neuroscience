@@ -38,26 +38,29 @@
       "Misc/Online Courses"
     ],
     "PhD": [
-      "PhD Related Items",
       "PhD Related Items/PHD Stuff",
       "PhD Related Items/PHD Stuff/Boston",
       "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder",
-      "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder",
-      "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale"
+      "PhD Related Items/PHD Stuff/Boston/Interview Research/interviewer profile pictures"
     ],
     "Neuro": [
+      "Computational Neuroscience/Neuro For Dummies/Chapter 3 Understanding How Neurons Work",
       "Computational Neuroscience",
       "Computational Neuroscience/Theoretical Neuroscience",
+      "Computational Neuroscience/Biophysics of Computation",
+      "Computational Neuroscience/Biophysics of Computation/Chapter 1",
       "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
-      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics"
-    ]
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics",
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons"
+    ],
+    "Machine LearningMathematics": []
   },
   "expandedSpaces": [
     null,
     "PhD",
-    "Machine LearningMathematics",
-    "Misc",
-    "Neuro"
+    "Neuro",
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
