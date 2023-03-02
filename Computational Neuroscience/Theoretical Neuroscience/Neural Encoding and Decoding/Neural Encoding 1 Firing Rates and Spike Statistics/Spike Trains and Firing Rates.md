@@ -7,3 +7,14 @@ provided that the limits of the integral surround the point $t$ (if they do not,
 
 Due to variability in APs they are typically treated statistically or probabilistically. For example, they may be characterized by firing rates, rather than as specific spike sequences. <mark style='background:#f7b731'>The term "firing rate" is applied conventionally to a number of different quantities</mark>. The simplest of these is called <mark style='background:#eb3b5a'>spike-count rate</mark>, which is obtained by counting the number of APs that appear during a trial and dividing by the duration of the trial. We denote the <mark style='background:#eb3b5a'>spike-count by r</mark>, where $$r = \frac{n}{T} = \frac{1}{T}\int^{T}_{0}\rho(\tau)d\tau$$
 The second equality follows from the fact that $\int\rho(\tau)d\tau = n$ and indicates that the spike count rate is the <mark style='background:#3867d6'>time average of the neural response function over the duration of the trial</mark>.
+
+The spike-count rate **can** be <mark style='background:#f7b731'>determined from a single trial</mark>, but at the <mark style='background:#20bf6b'>expense of losing all temporal resolution about variations in the neural response during the course of the trial</mark>. To get a time-dependent firing rate, it can be defined by **counting spikes over short time intervals**, but this can't be computed from a single trial.
+
+>[!note] Time-Dependent Firing Rate Example
+>We can define the firing rate at time $t$ during a trial by counting all the spikes that occurred between times $t$ and $t + \Delta t$, for some small interval $\Delta t$, and diving this count by $\Delta t$. However, for small $\Delta t$, which allows for high temporal resolution, the result of the spike count on any given trial is about to be either 0 or 1, giving only two possible firing-rate values. Thus the solution is to average over multiple trials. Thus, we define the time-dependent firing rate as the average number of spikes (averaged over trials) appearing during a short interval between times $t$ and $t + \Delta t$, divided by the duration of the interval.
+
+
+
+
+
+

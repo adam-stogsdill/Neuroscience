@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": 3426.0690731714644,
                   "y": 3695.5794014329185,
-                  "zoom": -1.3368067606615752
+                  "zoom": -1.7591177526441943
                 }
               },
               "pinned": true
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md"
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas"
               }
             }
           },
@@ -227,10 +226,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "96569f4c3139d3d0",
+  "active": "2b938f1d718bfdfd",
   "lastOpenFiles": [
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
+    "Computational Neuroscience/NeuralCodingLibrary/__pycache__/spike_data.cpython-39.pyc",
+    "Computational Neuroscience/NeuralCodingLibrary/spike_rate.py",
+    "Computational Neuroscience/NeuralCodingLibrary/spike_data.py",
+    "Computational Neuroscience/NeuralCodingLibrary/__pycache__/dirac_delta.cpython-39.pyc",
+    "Computational Neuroscience/NeuralCodingLibrary/__pycache__",
+    "Computational Neuroscience/NeuralCodingLibrary/testing.py",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md",
     "Computational Neuroscience/NeuralCodingLibrary/dirac_delta.py",
     "Computational Neuroscience/NeuralCodingLibrary",
@@ -248,12 +253,9 @@
     "2023-02-19 Registration & Breakfast, Hillel House, 213 Baystate Rd. 4th Floor.md",
     "Untitled.md",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Properties of Neurons/Membrane Potential.md",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas.rtf",
     "Computational Neuroscience/Biophysics of Computation/Chapter 1/Structure of the Passive Neuronal Membrane.md",
     "Computational Neuroscience/Biophysics of Computation/Introduction.md",
     "Computational Neuroscience/Biophysics of Computation/Chapter 1/The Membrane Equation.md",
-    "Computational Neuroscience/Biophysics of Computation/Chapter 1",
-    "Computational Neuroscience/Biophysics of Computation",
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/4 What kind of research do you want to do?.md",
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/3 What drew you to this program?.md",
     "2023-02-27 Lunch Hillel House, 213 Baystate Rd. 4th Floor.md",
@@ -267,9 +269,6 @@
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/1 Researcher Research.md",
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/2 Why do you want a PhD?.md",
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/1677227396432_cell_membrane.jpg",
-    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Marc Howard",
-    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Arash Yazdanbakhsh",
-    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/Research Paper Folder/Brian DePasquale",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/cognition/Optimally Fuzzy Temporal Memory.jpg"

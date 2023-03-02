@@ -17,7 +17,7 @@
 		{"type":"file","file":"Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md","id":"f41710a92f1bfcbb","x":760,"y":1880,"width":1000,"height":1720},
 		{"type":"file","file":"Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230228211505.png","id":"d04a6ed73465251f","x":1880,"y":1880,"width":1015,"height":1104},
 		{"id":"5e80b4f5c9a62901","x":3080,"y":1880,"width":2126,"height":1104,"type":"file","file":"Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/From Stimulus to Response.md"},
-		{"id":"9a19a28cf2487083","x":1880,"y":3080,"width":3326,"height":1480,"type":"file","file":"Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md"}
+		{"id":"9a19a28cf2487083","x":1880,"y":3080,"width":3326,"height":1800,"type":"file","file":"Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md"}
 	],
 	"edges":[
 		{"id":"25186bfeb6bdc750","fromNode":"884a51787d5c6165","fromSide":"right","toNode":"6defbafd481f4a44","toSide":"left"},
