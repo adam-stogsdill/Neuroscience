@@ -16,38 +16,12 @@
               "state": {
                 "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
                 "viewState": {
-                  "x": 3761.344079421845,
-                  "y": 3535.5617848134198,
-                  "zoom": -1.0344668883410821
+                  "x": 3426.0690731714644,
+                  "y": 3695.5794014329185,
+                  "zoom": -1.3368067606615752
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "8c31bce8421dac8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9b906c6d8d554e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           },
           {
@@ -63,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             }
           },
           {
-            "id": "2d26fc49e87f15fa",
+            "id": "7ef2c20a5f1a5600",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -137,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas"
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md"
               }
             }
           },
@@ -252,15 +227,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2b938f1d718bfdfd",
+  "active": "96569f4c3139d3d0",
   "lastOpenFiles": [
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md",
     "Computational Neuroscience/NeuralCodingLibrary/dirac_delta.py",
     "Computational Neuroscience/NeuralCodingLibrary",
     "Computational Neuroscience/untitled folder",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recoding Neuronal Responses.md",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/From Stimulus to Response.md",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding and Decoding.canvas",
     "Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230228211505.png",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recording Neuronal Responses",
     "Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230228202254.png",

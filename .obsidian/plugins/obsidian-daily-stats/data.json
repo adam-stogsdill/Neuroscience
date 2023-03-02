@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2023/1/24": 216,
-    "2023/1/28": 1323
+    "2023/1/28": 1473
   },
   "todaysWordCount": {
     "Computational Neuroscience/Biophysics of Computation/Introduction.md": {
@@ -54,7 +54,7 @@
     },
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Spike Trains and Firing Rates.md": {
       "initial": 1,
-      "current": 237
+      "current": 387
     }
   }
 }

@@ -56,6 +56,7 @@ FNc
 Fn
 Fl
 Finally
+For
 out
 one
 of
@@ -137,6 +138,8 @@ ob
 optically
 other
 only
+occurred
+obtained
 this
 to
 the
@@ -248,6 +251,11 @@ taking
 trial
 therefore
 triggered
+timing
+treated
+times
+taken
+term
 form
 feedback
 following
@@ -337,6 +345,8 @@ filled
 figure
 free
 fired
+follows
+fact
 send
 similar
 sure
@@ -500,6 +510,16 @@ sources
 studying
 statistics
 simple
+somewhat
+shape
+stereotyped
+studies
+simply
+sum
+sums
+surround
+statistically
+simplest
 us
 use
 using
@@ -812,6 +832,12 @@ coding
 cells
 chapter
 correlation
+convey
+characterized
+conventionally
+called
+count
+counting
 with
 will
 we
@@ -901,6 +927,9 @@ wNG
 wyOZ
 wOn
 wmY
+well
+write
+where
 Join
 Joseph
 Joined
@@ -1008,6 +1037,8 @@ Dw
 Df
 Db
 During
+Dirac
+Due
 notes
 note
 new
@@ -1091,6 +1122,7 @@ nSM
 ni
 noise
 near
+narrow
 The
 Type
 Text
@@ -1339,6 +1371,7 @@ reflect
 relationships
 responding
 relating
+represented
 viewing
 vowels
 very
@@ -1518,6 +1551,8 @@ ALDvICzJ
 AO
 Au
 APs
+Action
+Although
 Links
 Link
 Louis
@@ -1660,6 +1695,14 @@ effects
 encoded
 examine
 evoked
+eb
+events
+encoding
+end
+express
+example
+equality
+equation
 in
 information
 instruction
@@ -1758,6 +1801,11 @@ intrinsic
 interval
 introduce
 inhomogeneous
+identical
+infinitesimally
+integrals
+integral
+indicates
 plugin
 piece
 portqnt
@@ -1887,6 +1935,8 @@ producing
 processes
 probability
 present
+provided
+probabilistically
 Press
 Pro
 Passionate
@@ -2036,6 +2086,8 @@ attention
 affect
 activities
 averaging
+amplitude
+appear
 link
 links
 lazy
@@ -2115,6 +2167,8 @@ lM
 lw
 look
 lead
+list
+limits
 Generate
 Get
 GOAL
@@ -2339,6 +2393,7 @@ broader
 bottom
 because
 basic
+behaved
 Rewrite
 RNNs
 Response
@@ -2490,6 +2545,10 @@ drawings
 during
 descriptions
 discuss
+duration
+denote
+defining
+dividing
 Click
 Complete
 Credits

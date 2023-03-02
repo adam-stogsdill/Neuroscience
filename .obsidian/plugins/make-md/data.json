@@ -78,7 +78,7 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
+  "lineNumbers": true,
   "hiddenExtensions": [
     "mdb"
   ],
