@@ -25,6 +25,21 @@
           {
             "id": "b538968ceeacf3cf",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computational Neuroscience/Theoretical Neuroscience/Equations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "46d1cf620a5a0653",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -34,9 +49,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b1e32da8c5b4503",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computational Neuroscience/Library/Kernel Methods on Spike Train Space for Neuroscience A tutorial.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,12 +236,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,11 +258,15 @@
       "publish:Publish changes": false
     }
   },
-  "active": "b538968ceeacf3cf",
+  "active": "46d1cf620a5a0653",
   "lastOpenFiles": [
+    "Computational Neuroscience/Library/Kernel Methods on Spike Train Space for Neuroscience A tutorial.pdf",
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/1.2.1 Tuning Curve Example.md",
+    "Computational Neuroscience/Library",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/1.2 Spike Trains and Firing Rates.md",
-    "Computational Neuroscience/Theoretical Neuroscience/Theoretical Neuroscience Main Page.md",
     "Computational Neuroscience/Theoretical Neuroscience/Equations.md",
+    "Computational Neuroscience/Theoretical Neuroscience/Theoretical Neuroscience Main Page.md",
+    "README.md",
     "Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230302183250.png",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/1.1 Introduction.md",
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/From Stimulus to Response.md",
@@ -267,16 +295,12 @@
     "Computational Neuroscience/NeuralCodingLibrary/testing.py",
     "Computational Neuroscience/NeuralCodingLibrary/dirac_delta.py",
     "Computational Neuroscience/NeuralCodingLibrary",
-    "Computational Neuroscience/untitled folder",
-    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics/Recording Neuronal Responses",
     "Computational Neuroscience/Theoretical Neuroscience/Images/Pasted image 20230221221750.png",
     "Ava - Getting Started.md",
     "2023-02-19 Registration & Breakfast, Hillel House, 213 Baystate Rd. 4th Floor.md",
     "Untitled.md",
     "Computational Neuroscience/Biophysics of Computation/Chapter 1/Structure of the Passive Neuronal Membrane.md",
     "Computational Neuroscience/Biophysics of Computation/Introduction.md",
-    "Computational Neuroscience/Biophysics of Computation/Chapter 1/The Membrane Equation.md",
-    "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/4 What kind of research do you want to do?.md",
     "PhD Related Items/PHD Stuff/Boston/Final Interview Prep Folder/1677227396432_cell_membrane.jpg",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Joseph McGuire/Untitled.canvas",
     "PhD Related Items/PHD Stuff/Boston/Interview Research/Marc Howard/Marc Howard Research.canvas",

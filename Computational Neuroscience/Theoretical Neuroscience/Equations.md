@@ -15,5 +15,8 @@ where $n=$ number of spikes in trial, and $T=$ the period of the trial
 $r(t) = \frac{1}{\Delta t}\int^{t + \Delta t}_{t}<\rho(\tau)>d\tau$
 
 #### Average Firing Rate
-$<r> = \frac{<n>}{T} = \frac{1}{T}\int^{T}_{0}<\rho(\tau)>d\tau = \frac{1}{T}\int^{T}_{0}r(t)dt$
+$<r> = \frac{<n>}{T} = \frac{1}{T}\int^{T}_{0}<\rho(\tau)>d\tau = \frac{1}{T}\int^{T}_{0}r(t)dt$ ^518f0a
+
+#### Response Tuning Curve (Spikes/Second(Hz))
+$<r> = f(s)$, where $s$ is the stimulus!
 
