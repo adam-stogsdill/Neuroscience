@@ -19,6 +19,7 @@
   "ava:ava-generative-search": [
     {
       "modifiers": [
+        "Ctrl",
         "Mod"
       ],
       "key": "A"
@@ -66,6 +67,15 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "publish:view-changes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

@@ -4,11 +4,11 @@ from spike_data import SpikeData
 
 def create_spike_data(length=10):
   spike_data = np.random.rand(length)
-  return (spike_data >= .5).astype(np.int8)
+  return (spike_data >= .9).astype(np.int8)
 
 data_list = []
-for i in range(20):
-  data_list.append(create_spike_data(100))
+for i in range(1):
+  data_list.append(create_spike_data(1000))
 data = np.asarray(data_list)
 example_data = SpikeData(data, 0.001)
 print(example_data)
