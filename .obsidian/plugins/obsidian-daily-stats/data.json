@@ -4,7 +4,7 @@
     "2023/1/28": 1473,
     "2023/2/1": 55,
     "2023/2/2": 2277,
-    "2023/2/3": 276
+    "2023/2/3": 323
   },
   "todaysWordCount": {
     "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/1.2 Spike Trains and Firing Rates.md": {
@@ -14,6 +14,10 @@
     "Computational Neuroscience/Theoretical Neuroscience/Equations.md": {
       "initial": 124,
       "current": 138
+    },
+    "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/1.2.1 Tuning Curve Example.md": {
+      "initial": 4,
+      "current": 51
     }
   }
 }
