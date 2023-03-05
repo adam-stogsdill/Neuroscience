@@ -1665,6 +1665,8 @@ Subject
 SNs
 Size
 Spikernel
+Spikes
+Second
 call
 community
 currently
@@ -3095,6 +3097,7 @@ rACD
 rTxP
 rRwm
 regression
+responded
 viewing
 vowels
 very
@@ -4740,6 +4743,7 @@ aHn
 abt
 adaptive
 arXivStAmP
+angles
 link
 links
 lazy
@@ -5241,6 +5245,7 @@ mgM
 mQH
 miR
 mghc
+moved
 below
 but
 before
@@ -6048,6 +6053,7 @@ COw
 CAT
 CPp
 CQS
+Curve
 Now
 Neural
 Neuroscience

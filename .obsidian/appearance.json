@@ -1,8 +1,8 @@
 {
   "accentColor": "#95c0db",
-  "baseFontSize": 30,
-  "cssTheme": "",
-  "theme": "moonstone",
+  "baseFontSize": 28,
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "Courier New",
   "enabledCssSnippets": [
