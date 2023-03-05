@@ -35,7 +35,8 @@
     "/": [
       "pages",
       "Misc",
-      "Misc/Online Courses"
+      "Misc/Online Courses",
+      "Computational Neuroscience"
     ],
     "PhD": [
       "PhD Related Items/PHD Stuff",
@@ -52,11 +53,17 @@
       "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding/Neural Encoding 1 Firing Rates and Spike Statistics",
       "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding"
     ],
-    "Machine LearningMathematics": []
+    "Machine LearningMathematics": [],
+    "Theoretical Neuroscience": [
+      "Computational Neuroscience/Theoretical Neuroscience",
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
+      "Computational Neuroscience/Biophysics of Computation"
+    ]
   },
   "expandedSpaces": [
     null,
     "Neuro",
+    "Theoretical Neuroscience",
     null
   ],
   "folderRank": {
