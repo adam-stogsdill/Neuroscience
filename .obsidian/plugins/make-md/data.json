@@ -35,8 +35,7 @@
     "/": [
       "pages",
       "Misc",
-      "Misc/Online Courses",
-      "Computational Neuroscience"
+      "Misc/Online Courses"
     ],
     "PhD": [
       "PhD Related Items/PHD Stuff",
@@ -56,8 +55,7 @@
     "Machine LearningMathematics": [],
     "Theoretical Neuroscience": [
       "Computational Neuroscience/Theoretical Neuroscience",
-      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding",
-      "Computational Neuroscience/Biophysics of Computation"
+      "Computational Neuroscience/Theoretical Neuroscience/Neural Encoding and Decoding"
     ]
   },
   "expandedSpaces": [

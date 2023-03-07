@@ -1,23 +1,8 @@
 [
   "ava",
-  "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-annotator",
-  "better-pdf-plugin",
-  "calendar",
-  "obsidian-completr",
-  "dataview",
-  "obsidian-dictionary-plugin",
-  "obsidian-emoji-toolbar",
-  "obsidian-full-calendar",
-  "obsidian-hider",
-  "highlightr-plugin",
-  "obsidian-icon-folder",
-  "obsidian-kanban",
-  "make-md",
-  "obsidian42-strange-new-worlds",
   "obsidian-smart-typography",
-  "obsidian-style-settings",
-  "obsidian-tasks-plugin",
-  "various-complements"
+  "cm-typewriter-scroll-obsidian",
+  "highlightr-plugin",
+  "obsidian-completr"
 ]

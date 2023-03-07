@@ -20,3 +20,14 @@ $<r> = \frac{<n>}{T} = \frac{1}{T}\int^{T}_{0}<\rho(\tau)>d\tau = \frac{1}{T}\in
 #### Response Tuning Curve (Spikes/Second(Hz))
 $<r> = f(s)$, where $s$ is the stimulus!
 
+#### Half-Wave Rectification
+$$[z]_+ =
+\left\{
+\begin{array}{ll}
+      z & z \geq 0 \\
+      0 & otherwise \\
+\end{array} 
+\right. $$
+
+^0e3ed1
+
